@@ -3,7 +3,7 @@ name: practice-github-actions
 on: push
 
 jobs:
-  demo-github-job:
+  super-lint:
     name: Lint code base
     runs-on: ubuntu-latest
     steps:
