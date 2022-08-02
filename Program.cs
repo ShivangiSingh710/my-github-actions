@@ -8,6 +8,6 @@ class Program
 {
     static void Main(string[] args)
     {
-     Console.WriteLine("Super-Linter Check");
+      Console.WriteLine("Super-Linter Check");
     }
 }
