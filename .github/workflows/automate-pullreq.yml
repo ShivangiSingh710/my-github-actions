@@ -2,8 +2,8 @@ name: Demo to create automatic PR
 
 on:
   push:
-    branches:
-      - main
+    branches: ignore
+      - master
 
 jobs:
   updateAuthor:
